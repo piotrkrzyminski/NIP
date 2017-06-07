@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1496855581 source:c:\users\piotrek\documents\programowanie c++\zadanka\nip\main.cpp
+	<iostream>
+	<fstream>
+	"podatnik.h"
+	"queue.h"
+
+1496855284 source:c:\users\piotrek\documents\programowanie c++\zadanka\nip\podatnik.cpp
+	"podatnik.h"
+
+1496855782 c:\users\piotrek\documents\programowanie c++\zadanka\nip\podatnik.h
+	<string>
+
+1496855339 c:\users\piotrek\documents\programowanie c++\zadanka\nip\queue.h
+	<stdlib.h>
+	"podatnik.h"
+
+1496855449 source:c:\users\piotrek\documents\programowanie c++\zadanka\nip\queue.cpp
+	<iostream>
+	"queue.h"
+
